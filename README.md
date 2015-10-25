@@ -4,3 +4,4 @@ Changes in master is here
 This is a change in first test branch
 
 change for commit 1
+change for commit 2
