@@ -5,3 +5,5 @@ This is a change in first test branch
 
 change for commit 1
 change for commit 2
+commit 1
+commit 2
