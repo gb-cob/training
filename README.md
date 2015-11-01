@@ -8,3 +8,6 @@ This is a change in first test branch
 changes for test folder
 
 Changes before new branch...
+
+Changes in Asset branch...
+
